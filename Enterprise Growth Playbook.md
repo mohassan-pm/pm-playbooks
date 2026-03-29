@@ -1,6 +1,6 @@
 # Enterprise growth playbook
 
-*A playbook for high-touch, B2B SaaS growth, built from what I've seen work in the field working when it comes to delivering enterprise features for some of the world's largest enterprises*
+*A playbook for high-touch, B2B SaaS growth, built from what I've seen work in the field when it comes to delivering enterprise features for some of the world's largest enterprises*
 
 ---
 
