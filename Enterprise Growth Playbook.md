@@ -1,11 +1,11 @@
 # Enterprise growth playbook
 
-*Frameworks for high-touch, B2B SaaS growth, built from what I've seen work in the field*
+*A playbook for high-touch, B2B SaaS growth, built from what I've seen work in the field working when it comes to delivering enterprise features for some of the world's largest enterprises*
 
 ---
 
 > **Before you read this**
-> This playbook is for products that are already loved and used by many people, but for some reason are not breaking into enterprise, or for teams that are going after enterprise from the start. If that is not your situation, you probably do not need this. Your traditional PLG playbook is all you need.
+> This playbook assume the product foundations are inplace and the product is already loved and used by many people, but for some reason are not breaking into enterprise, or for teams that are going after enterprise from the start. If that is not your situation, you probably do not need this. Your traditional PLG playbook is all you need.
 
 ---
 
